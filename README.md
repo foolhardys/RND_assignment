@@ -48,37 +48,6 @@ Based on the optimization, the best-fit values for the unknown parameters are:
   * **$M$:** `0.021249625918205495`
   * **$X$:** `54.90719550926761`
 
-## 📘 LaTeX Submission Format
-
-As required by the assignment, here are the **x** and **y** components of the parametric equation with the final substituted values.
-
----
-
-### 🔹 **x-component**
-
-$$
-\left(
-t \cos(0.491152592221121)
-- e^{0.021249625918205495} \, |t| \, \sin(0.3t) \sin(0.491152592221121)
-+ 54.90719550926761
-\right)
-$$
-
----
-
-### 🔹 **y-component**
-
-$$
-\left(
-42
-+ t \sin(0.491152592221121)
-+ e^{0.021249625918205495} \, |t| \, \sin(0.3t) \cos(0.491152592221121)
-\right)
-$$
-
----
-
-
 -----
 
 ## 🧠 Methodology & Step-by-Step Explanation
